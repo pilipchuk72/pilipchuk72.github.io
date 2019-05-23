@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".gitignor" type="Native" />
+      <mapping pattern=".bablerc" type="PLAIN_TEXT" />
+      <mapping pattern=".balerc" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
