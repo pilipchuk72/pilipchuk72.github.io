@@ -23,6 +23,11 @@ body {
     font-family: Montserrat, sans-serif;
 }
 
+.heading h4 {
+	margin-top: 50px;
+	margin-top: 50px;
+}
+
 @media (min-width: 576px) {
 
 	.gallery-block .transform-on-hover:hover {
