@@ -1,0 +1,8 @@
+<templateSet group="Igor html">
+  <template name="@card m4 l3" value=" &lt;div class=&quot;col-md-4 col-lg-3&quot;&gt;&#10;    &lt;div class=&quot;card border-0 transform-on-hover&quot;&gt;&#10;        &lt;a class=&quot;lightbox&quot; href=&quot;images/$var1$&quot;&gt;&#10;            &lt;img src=&quot;images/300x200/$var1$&quot; class=&quot;card-img-top&quot;&gt;&lt;/a&gt;&#10;        &lt;div class=&quot;card-body&quot;&gt;&#10;            &lt;!--&lt;h6&gt;Lorem Ipsum&lt;/h6&gt;--&gt;&#10;            &lt;!--&lt;p class=&quot;text-muted card-text&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna.&lt;/p&gt;--&gt;&#10;        &lt;/div&gt;&#10;    &lt;/div&gt;&#10; &lt;/div&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>
